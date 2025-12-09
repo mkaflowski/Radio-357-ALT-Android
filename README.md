@@ -16,7 +16,7 @@ Aby zainstalować należy pobrać plik .apk z https://github.com/mkaflowski/Radi
 ## Funkcje
 
 ### Szybki dostęp
-- Zwiększona czytelność
+- Zwiększona czytelność i szybkość działąnia
 - Ulubieni autorzy i programy zawsze pod ręką
 - Niedokończone odcinki w jednym miejscu
 - Nagłówki z informacją o okresie odcinka (np. „ostatni tydzień")
