@@ -4,8 +4,8 @@ Alternatywna, nieoficjalna aplikacja do słuchania podcastów **Radia 357**.
 
 > ⚠️ **Wymagane konto Patrona** — aplikacja działa wyłącznie dla [Patronów Radia 357](https://radio357.pl/faq/patroni/jak-mozna-zostac-patronem-radia-357/)
 
-<img width="294" height="655" alt="image" src="https://github.com/user-attachments/assets/25801fde-34e0-4c2e-8d69-f1ae20de4576" />
 <img width="291" height="655" alt="image" src="https://github.com/user-attachments/assets/d08df17e-13e4-42c6-a4ea-7c59401e51e7" />
+<img width="294" height="655" alt="image" src="https://github.com/user-attachments/assets/25801fde-34e0-4c2e-8d69-f1ae20de4576" />
 <img width="292" height="655" alt="image" src="https://github.com/user-attachments/assets/7a0e6277-0214-45c4-a719-2345238ea1e5" />
 
 
