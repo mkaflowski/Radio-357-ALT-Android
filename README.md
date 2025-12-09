@@ -23,6 +23,7 @@ Aby zainstalować należy pobrać plik .apk z https://github.com/mkaflowski/Radi
 
 ### Odtwarzanie
 - Ciemny motyw
+- Wyświetlanie informacji o obecnym utworze oraz okładki
 - Zmiana prędkości odtwarzania
 - Cofanie o kilka sekund przy pauzowaniu
 - Automatyczne wznawianie po powrocie internetu
