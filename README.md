@@ -3,6 +3,7 @@
 Alternatywna, nieoficjalna aplikacja do słuchania podcastów **Radia 357**.
 
 > ⚠️ **Wymagane konto Patrona** — aplikacja działa wyłącznie dla [Patronów Radia 357](https://radio357.pl/faq/patroni/jak-mozna-zostac-patronem-radia-357/)
+> ZACHĘCAM DO WSPIERANIA RADIA :)
 
 <img width="291" height="655" alt="image" src="https://github.com/user-attachments/assets/d08df17e-13e4-42c6-a4ea-7c59401e51e7" />
 <img width="294" height="655" alt="image" src="https://github.com/user-attachments/assets/25801fde-34e0-4c2e-8d69-f1ae20de4576" />
