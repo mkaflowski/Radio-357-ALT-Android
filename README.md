@@ -10,7 +10,7 @@ Alternatywna, nieoficjalna aplikacja do słuchania podcastów **Radia 357**.
 <img width="295" height="659" alt="image" src="https://github.com/user-attachments/assets/402e3d4a-6433-4eee-be63-b8404aa729e3" />
 <img width="295" height="659" alt="image" src="https://github.com/user-attachments/assets/7a0e6277-0214-45c4-a719-2345238ea1e5" />
 
-
+Aby zainstalować należy pobrać plik .apk z https://github.com/mkaflowski/Radio-357-ALT-Android/releases/.
 ---
 
 ## Funkcje
